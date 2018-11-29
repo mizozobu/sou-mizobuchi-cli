@@ -13,7 +13,7 @@ npm install -g npx
 ```
 then run
 ```
-$ npx mizozobu
+$ npx sou-mizobuchi
 ```
 
 

@@ -42,7 +42,11 @@ const items = [
 		url: 'https://growi.org/'
 	},
 	{
-		label: '  - My uber-old dying website',
+		label: '  - Japanese Student Association Website',
+		url: 'https://byujsa.com'
+	},
+	{
+		label: '  - C#.NET Blog Prototype',
 		url: 'https://mycodesnippets20180120082754.azurewebsites.net/'
 	},
 	{
