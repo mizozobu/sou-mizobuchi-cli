@@ -28,8 +28,8 @@ const items = [
 		url: 'https://github.com/mizozobu'
 	},
 	{
-		label: '  - GitLab',
-		url: 'https://gitlab.com/users/mizozobu/projects'
+		label: '  - JSON Resume',
+		url: 'registry.jsonresume.org/mizozobu'
 	},
 	{
 		label: ''
@@ -42,15 +42,12 @@ const items = [
 		url: 'https://growi.org/'
 	},
 	{
-		label: '  - Japanese Student Association Website',
-		url: 'https://byujsa.com'
-	},
-	{
 		label: '  - C#.NET Blog Prototype',
 		url: 'https://mycodesnippets20180120082754.azurewebsites.net/'
 	},
 	{
-		label: ''
+		label: '  - Salary Prediction',
+		url: 'https://whatsyourvalue.azurewebsites.net/'
 	},
 	{
 		label: 'Quit',
